@@ -1,9 +1,9 @@
-@import url("./header.css");
-@import url("./banner.css");
-@import url("./carrossel.css");
-@import url("./topicos.css");
-@import url("./contato.css");
-@import url("./rodape.css");
+@import url("./assets/styles/header.css");
+@import url("./assets/styles/banner.css");
+@import url("./assets/styles/carrossel.css");
+@import url("./assets/styles/topicos.css");
+@import url("./assets/styles/contato.css");
+@import url("./assets/styles/rodape.css");
 
 :root {
     --cor-de-fundo: #EBECEE;
